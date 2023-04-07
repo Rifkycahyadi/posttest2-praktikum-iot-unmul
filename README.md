@@ -5,7 +5,7 @@
 
 # CONTROLLING DAN MONITORING KECERAHAN LED MENGGUNAKAN PLATFORM BLYNK
 ## Metode IoT :
-1. 
+Pada IoT ini kami menggunakan LED yang bisa di atur tingkat kecerahannya melalui platform Blynk, dan juga melalui Blynk kita dapat memonitori Berapa jumlah value dari kecerahan LED tersebut
 
 
 ## Pembagian Tugas :
