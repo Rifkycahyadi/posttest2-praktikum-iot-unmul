@@ -1,7 +1,7 @@
 # posttest2-praktikum-iot-unmul
 ## KELOMPOK 6:
-  Rivan Abdillah            (2009106025)
-  Muhammad Rifky Cahyadi S  (2009106043)
+  - Rivan Abdillah            (2009106025)
+  - Muhammad Rifky Cahyadi S  (2009106043)
 
 # CONTROLLING DAN MONITORING KECERAHAN LED MENGGUNAKAN PLATFORM BLYNK
 ## Metode IoT :
