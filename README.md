@@ -21,3 +21,5 @@ Pada IoT ini kami menggunakan LED yang bisa di atur tingkat kecerahannya melalui
   - LED
   - kabel jumper
   - Kabel USB
+## Skema :
+![image](https://user-images.githubusercontent.com/74778010/230651455-798dd082-7670-4c93-8884-310bde317ca2.png)
